@@ -13,3 +13,12 @@
     magic ui (https://magicui.design/docs/components)
     next ui(https://www.heroui.com/)
     react bits
+# admin LTE
+
+    soft ui dashboard
+    argon dashboard
+    material dashboard
+    black dashboard
+    sneat dashboard
+    meterio dashboard
+    orion dashboard
